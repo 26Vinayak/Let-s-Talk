@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Chatter</title>
+        <title>Let's Talk</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
